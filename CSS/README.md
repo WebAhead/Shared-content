@@ -12,7 +12,7 @@
 ## Links below
 
 * importing google fonts: https://www.youtube.com/watch?v=Z3JR6mEWEEo
-* 
+* reset stylesheet: http://html5doctor.com/html-5-reset-stylesheet/
 * 
 * 
 * 
