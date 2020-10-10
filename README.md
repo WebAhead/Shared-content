@@ -1,8 +1,8 @@
 
 
 
-### Welcome to the repository which includes shared content that devlopers shared to help each other.
-#### Here is your chance to learn from videos and matterials that others share, and you are more than welcome to share materiales or videos that you found and learned from.
+### Welcome to the place where you can find files/ videos and more, that are shared by developers to help each other. 
+#### The purpus from this repo is to share matterial so that developers can help one another.
 
 
 
