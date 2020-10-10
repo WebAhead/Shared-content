@@ -2,7 +2,7 @@
 
 
 ### Welcome to the place where you can find files/ videos and more, that are shared by developers to help each other. 
-#### The purpus from this repo is to share matterial so that developers can help one another.
+#### The purpose from this repo is to share matterial so that developers can help one another.
 
 
 
