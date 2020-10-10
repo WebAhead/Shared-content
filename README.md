@@ -2,7 +2,7 @@
 
 
 ### Welcome to the place where you can find files/ videos and more that are shared by developers just like you to help each other. 
-#### The purpose from this repo is to share matterial so that everyone can help one another.
+#### The purpose of this repo is to share matterial so that everyone can help one another.
 #### This is your oportunity to take and to give =D
 
 #### If you find an intersting matterial/ video, please add it to the list we have in each folder (as following).
