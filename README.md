@@ -12,6 +12,7 @@
 * [HTML](HTML/README.md)  - HTML
 * [CSS](CSS/README.md)  - CSS
 * [Javascript](Javascript/README.md)  - Javascript
+* [RegEx](RegEx/README.md)  - RegEx
 * [APIs](APIs/README.md)  - APIs
 * [Nodes](Nodes/README.md)  - Nodes
 * [PostgreSQL](PostgreSQL/README.md)  - PostgreSQL
