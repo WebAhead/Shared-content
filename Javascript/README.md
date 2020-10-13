@@ -11,8 +11,8 @@
 
 ## Links below
 
-* 
-* 
+* JavaScript DOM Tutorial #1 - Introduction: https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V
+   * This is a playlist that covers everything topic by topic like: Get Element By ID, Get Elements By Class or Tag, The Query Selector, and more
 * 
 * 
 * 
