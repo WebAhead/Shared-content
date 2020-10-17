@@ -17,7 +17,7 @@
 * WHAT THE FLEXBOX?: https://flexbox.io/
    * A simple, free 20 video course that will help you master CSS Flexbox!
 * flexbox complete guide : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* 
+* CSS Tutorials For Beginners (playlist): https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT
 * 
 * 
 * 
